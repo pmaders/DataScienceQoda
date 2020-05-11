@@ -7,3 +7,4 @@
 2. * [TiposdeDadoseVariaveis](https://github.com/pmaders/DataScienceQoda/blob/master/TiposdeDadoseVariaveis_.ipynb)
 3. * [Strings](https://github.com/pmaders/DataScienceQoda/blob/master/Strings.ipynb)
 4. * [ListasEArrays](https://github.com/pmaders/DataScienceQoda/blob/master/ListasEArrays.ipynb)
+5. * [Tuplas](https://github.com/pmaders/DataScienceQoda/blob/master/Tuplas.ipynb)
