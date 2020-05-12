@@ -2,7 +2,7 @@
 
 ## Curso Maratona Data Science by Qoda  <b>
 ---
-## **Aula 1: Linguagem Python** <b>
+## **Linguagem Python** <b>
 1. * [HelloWorld](https://github.com/pmaders/DataScienceQoda/blob/master/helloworld.ipynb)
 2. * [Tipos de Dados e Variaveis](https://github.com/pmaders/DataScienceQoda/blob/master/TiposdeDadoseVariaveis_.ipynb)
 3. * [Strings](https://github.com/pmaders/DataScienceQoda/blob/master/Strings.ipynb)
@@ -13,3 +13,4 @@
 8. * [Funções Orientadas a Expressões](https://github.com/pmaders/DataScienceQoda/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es_cHfwRiK_(2).ipynb)
 9. * [Pacotes](https://github.com/pmaders/DataScienceQoda/blob/master/Pacotes.ipynb)
 10. * [Fase 1](https://github.com/pmaders/DataScienceQoda/blob/master/Fase1.ipynb)
+11. * [Fasa 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
