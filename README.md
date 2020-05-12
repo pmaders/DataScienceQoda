@@ -10,3 +10,4 @@
 5. * [Tuplas](https://github.com/pmaders/DataScienceQoda/blob/master/Tuplas.ipynb)
 6. * [Dicionários](https://github.com/pmaders/DataScienceQoda/blob/master/Dicion%C3%A1rios.ipynb)
 7. * [Métodos e Funções](https://github.com/pmaders/DataScienceQoda/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es.ipynb)  
+8. * [Funções Orientadas a Expressões](https://github.com/pmaders/DataScienceQoda/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es_cHfwRiK_(2).ipynb)
