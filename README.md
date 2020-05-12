@@ -13,4 +13,4 @@
 8. * [Funções Orientadas a Expressões](https://github.com/pmaders/DataScienceQoda/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es_cHfwRiK_(2).ipynb)
 9. * [Pacotes](https://github.com/pmaders/DataScienceQoda/blob/master/Pacotes.ipynb)
 10. * [Fase 1](https://github.com/pmaders/DataScienceQoda/blob/master/Fase1.ipynb)
-11. * [Fasa 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
+11. * [Fase 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
