@@ -14,3 +14,4 @@
 9. * [Pacotes](https://github.com/pmaders/DataScienceQoda/blob/master/Pacotes.ipynb)
 10. * [Fase 1](https://github.com/pmaders/DataScienceQoda/blob/master/Fase1.ipynb)
 11. * [Fase 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
+12. * [Fase 3](https://github.com/pmaders/DataScienceQoda/blob/master/Fase3.ipynb)
