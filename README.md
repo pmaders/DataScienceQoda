@@ -15,3 +15,7 @@
 10. * [Fase 1](https://github.com/pmaders/DataScienceQoda/blob/master/Fase1.ipynb)
 11. * [Fase 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
 12. * [Fase 3](https://github.com/pmaders/DataScienceQoda/blob/master/Fase3.ipynb)
+---
+## **Linguagem R** <b>
+1. * [R](https://github.com/pmaders/DataScienceQoda/blob/master/R.ipynb)
+2. * [R Fundamentos](https://github.com/pmaders/DataScienceQoda/blob/master/R_Re403Dr.ipynb)
