@@ -12,10 +12,12 @@
 7. * [Métodos e Funções](https://github.com/pmaders/DataScienceQoda/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es.ipynb)  
 8. * [Funções Orientadas a Expressões](https://github.com/pmaders/DataScienceQoda/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es_cHfwRiK_(2).ipynb)
 9. * [Pacotes](https://github.com/pmaders/DataScienceQoda/blob/master/Pacotes.ipynb)
-10. * [Fase 1](https://github.com/pmaders/DataScienceQoda/blob/master/Fase1.ipynb)
-11. * [Fase 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
-12. * [Fase 3](https://github.com/pmaders/DataScienceQoda/blob/master/Fase3.ipynb)
+10. * [Laboratório - Fase 1](https://github.com/pmaders/DataScienceQoda/blob/master/Fase1.ipynb)
+11. * [Çaboratório - Fase 2](https://github.com/pmaders/DataScienceQoda/blob/master/Fase2.ipynb)
+12. * [Laboratório - Fase 3](https://github.com/pmaders/DataScienceQoda/blob/master/Fase3.ipynb)
 ---
 ## **Linguagem R** <b>
 1. * [R](https://github.com/pmaders/DataScienceQoda/blob/master/R.ipynb)
-2. * [R Fundamentos Básicos](https://github.com/pmaders/DataScienceQoda/blob/master/R_Re403Dr.ipynb)
+2. * [Data Visualization with ggplot2 - CHEAT SHEET](https://github.com/pmaders/DataScienceQoda/blob/master/data-visualization-2.1.pdf)
+3. * [Data Import - CHEAT SHEET](https://github.com/pmaders/DataScienceQoda/blob/master/data-import.pdf)
+4. * [Data Transformation with dplye - CHEAP SHEET](https://github.com/pmaders/DataScienceQoda/blob/master/data-transformation.pdf)
