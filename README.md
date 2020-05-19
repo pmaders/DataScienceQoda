@@ -18,4 +18,4 @@
 ---
 ## **Linguagem R** <b>
 1. * [R](https://github.com/pmaders/DataScienceQoda/blob/master/R.ipynb)
-2. * [R Fundamentos](https://github.com/pmaders/DataScienceQoda/blob/master/R_Re403Dr.ipynb)
+2. * [R Fundamentos Básicos](https://github.com/pmaders/DataScienceQoda/blob/master/R_Re403Dr.ipynb)
