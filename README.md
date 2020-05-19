@@ -1,6 +1,6 @@
 # MaratonaDataScience <b>
-
 ## Curso Maratona Data Science by Qoda  <b>
+![](![MaratonaDataScienceQODA](https://user-images.githubusercontent.com/65032863/82272328-a4d3d180-9950-11ea-9adb-a4d32c230e31.png))
 ---
 ## **Linguagem Python** <b>
 1. * [HelloWorld](https://github.com/pmaders/DataScienceQoda/blob/master/helloworld.ipynb)
